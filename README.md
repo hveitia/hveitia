@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Solution to improve the finances of small and medium-sized companies in Ecuador.**
 
-- 🌱 I’m currently learning **Docker, AI**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Projects with great social impact.**
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hveitia86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hveitia86" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hectorveitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hectorveitia" height="30" width="40" /></a>
 </p>
 
