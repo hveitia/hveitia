@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hector Veitía</h1>
+<h1 align="center">Hi 👋, I'm Hector</h1>
 <h3 align="center">I am a passionate and dedicated Senior System Software Engineer who is committed to delivering innovative solutions that drive business success.</h3>
 
 - 🔭 I’m currently working on **Solution to improve the finances of small and medium-sized companies in Ecuador.**
