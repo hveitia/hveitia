@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hector</h1>
 <h3 align="center">I am a passionate and dedicated Senior System Software Engineer who is committed to delivering innovative solutions that drive business success.</h3>
 
-- 🔭 I’m currently working on **Solution to improve the finances of small and medium-sized companies in Ecuador.**
+- 📱 I am currently working as an Independent Mobile Developer collaborating with different teams and companies in LATAM, the USA, and Europe.
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI** 
 
-- 👯 I’m looking to collaborate on **Projects with great social impact.**
+- 👯 I like to collaborate on **Projects with great social impact.**
 
 - 🤝 I’m looking for help with **Projects that change lives.**
 
-- 👨‍💻 You can check my resume at [Web Resume](https://hector-veitia-resume-web-git-develop-hectors-projects-748c649d.vercel.app/)
+- 👨‍💻 You can my resume at [Web Resume](https://hector-veitia-resume-web-git-develop-hectors-projects-748c649d.vercel.app/)
 
 - 💬 Ask me about **Flutter | JavaScript | NodeJS | Angular | Software Architecture | Solid Principles | Clean Architecture**
 
