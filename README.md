@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Projects that change lives.**
 
-- 👨‍💻 You can see my resume att [Web Resume](https://hector-veitia-resume-web-git-develop-hectors-projects-748c649d.vercel.app/)
+- 👨‍💻 You can see my resume att [Web Resume](https://www.hector-veitia.com/)
 
 - 💬 Ask me about **Flutter | JavaScript | NodeJS | Angular | Software Architecture | Solid Principles | Clean Architecture**
 
